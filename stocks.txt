@@ -1,0 +1,2 @@
+Microsoft ; 12.4 ; 5
+Sonae ; 8.9 ; 5
